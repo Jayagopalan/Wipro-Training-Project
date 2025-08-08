@@ -1,2 +1,0 @@
-Patient ID: 123, Name: Jaigo, Disease: Ortho, Age: 22
-Patient ID: 100, Name: Jayagopalan, Disease: , Age: 22
